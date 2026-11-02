@@ -93,11 +93,13 @@ Identified students with Third Term average scores below 50 to highlight those w
 
 ## Dashboard
 
+![Greenfield_Secondary_School_Dashboard](Greenfield_dashboard)
+
 The Executive Summary dashboard brings together key performance indicators, class performance trends, subject comparisons, and student improvement status to provide a clear overview of the school's academic performance.
 
 ## Recommendations
 
-- trengthen Mathematics teaching and introduce targeted remedial lessons.
+- Strengthen Mathematics teaching and introduce targeted remedial lessons.
 
 - Provide additional academic support for students whose averages are below 50.
 
@@ -109,7 +111,7 @@ The Executive Summary dashboard brings together key performance indicators, clas
 
 ## Conclusion
 
-his project demonstrates how Microsoft Excel can be used to transform raw academic records into meaningful insights. Through data cleaning, analysis, and dashboard development, the school can better understand student performance, identify learning gaps, monitor improvement, and make informed decisions to support better academic outcomes.
+This project demonstrates how Microsoft Excel can be used to transform raw academic records into meaningful insights. Through data cleaning, analysis, and dashboard development, the school can better understand student performance, identify learning gaps, monitor improvement, and make informed decisions to support better academic outcomes.
 
 ## Skills Demonstrated
 
